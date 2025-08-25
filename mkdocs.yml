@@ -3,7 +3,7 @@ site_url: https://hunterrc.github.io/codeconstructors.github.io/
 theme:
   name: material
 
-  markdown_extensions:
+markdown_extensions:
   - attr_list
   - pymdownx.mark
   - pymdownx.inlinehilite
