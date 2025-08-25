@@ -19,7 +19,7 @@ theme:
     #  icon: material/toggle-switch
     #  name: Light Mode
     primary: indigo #Header
-    accent: red #Link hover
+    accent: light blue #Link hover
 
 #  theme:
     
@@ -38,6 +38,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.details
+  
 
 #  - pymdownx.buttons
   
@@ -51,6 +52,9 @@ nav:
     - Previous Semesters: projects/previous_semesters.md
   - Resources:
     - Setting Up For a Project: resources/setting_up.md
+
+  - Projects:
+    - Sample Project: created_projects/sample_project.md
   # - Resources: 
   #   - If you're new start here!:
   #   - Setting up:
@@ -58,6 +62,7 @@ nav:
   #   - Colab:
   #   - GitHub:
   #   - Project Management:
+
 
 
   
