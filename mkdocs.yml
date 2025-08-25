@@ -37,6 +37,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.details
+
 #  - pymdownx.buttons
   
 
@@ -45,11 +47,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Projects: 
-    - Current Semester: docs/projects/current_semester.md
-    - Previous Semesters: docs/projects/previous_semesters.md
+    - Current Semester: projects/current_semester.md
+    - Previous Semesters: projects/previous_semesters.md
+  - Resources:
+    - Setting Up For a Project: resources/setting_up.md
   # - Resources: 
+  #   - If you're new start here!:
   #   - Setting up:
-  #   - Information for Beginners:
   #   - Python:
   #   - Colabs:
   #   - GitHub:

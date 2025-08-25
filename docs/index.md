@@ -1,12 +1,4 @@
-# codeconstructors.github.io
+# Welcome to Code Constructors!
 
-## Test
-
-
-### Another test
-
-#### ANOTHER ONE
-[Subscribe to our newsletter](#){ .md-button }
-
-# TEST
- [Send :fontawesome-solid-paper-plane:](#){ .md-button }
+### Hello!
+Test
