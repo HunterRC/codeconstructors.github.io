@@ -2,7 +2,9 @@ site_name: Code Constructors
 site_url: https://hunterrc.github.io/codeconstructors.github.io/
 theme:
   name: material
+  logo: assets/logo.png
 
+  
 markdown_extensions:
   - attr_list
   - pymdownx.mark
@@ -14,7 +16,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.buttons
+#  - pymdownx.buttons
   
 nav:
   - Home: index.md
+
+  
