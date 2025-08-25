@@ -1,0 +1,17 @@
+site_name: My site
+site_url: https://hunterrc.github.io/codeconstructors.github.io/
+theme:
+  name: material
+
+  markdown_extensions:
+  - attr_list
+  - pymdownx.mark
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.betterem
+  - pymdownx.tilde
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.buttons
