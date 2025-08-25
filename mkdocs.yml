@@ -15,3 +15,6 @@ theme:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.buttons
+  
+nav:
+  - Home: index.md
