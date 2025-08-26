@@ -4,6 +4,7 @@ theme:
   name: material
   features:
     - navigation.top
+    - content.icons
   logo: images/logo.png
 
   palette:
@@ -19,7 +20,7 @@ theme:
     #  icon: material/toggle-switch
     #  name: Light Mode
     primary: indigo #Header
-    accent: light blue #Link hover
+    accent: light blue #Link hover 
 
 #  theme:
     
@@ -35,14 +36,19 @@ markdown_extensions:
   - pymdownx.tilde
   - md_in_html
   - admonition
-  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.details
-  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 
 #  - pymdownx.buttons
   
-
+extra_javascript:
+  - https://p.trellocdn.com/embed.min.js
 
 
 nav:
@@ -53,8 +59,8 @@ nav:
   - Resources:
     - Setting Up For a Project: resources/setting_up.md
 
-  - Projects:
-    - Sample Project: created_projects/sample_project.md
+  # - Projects:
+  #   - Sample Project: created_projects/sample_project.md
   # - Resources: 
   #   - If you're new start here!:
   #   - Setting up:

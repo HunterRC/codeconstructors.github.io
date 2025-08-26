@@ -1,12 +1,25 @@
 # Spring 2025 Projects
 
-# Project 1
+<div class="grid cards" markdown>
 
-## Kan Ban Board
+-   ###Project Name
+    Project Lead
 
-## Project Resources
+    ---
 
-# Project 2 
-## Kan Ban Board
+    View the full project page for more details
 
-## Project Resources
+    [Project Page](../created_projects/spring2025project1.md){ .md-button }
+
+    ---
+
+    
+    [:myicons-colab: Open Colab](../created_projects/sample_project.md){ .md-button }
+
+    ---
+
+    [:myicons-trello: Open Trello](https://trello.com/b/lnXQogHl){ .md-button }
+    
+-  
+
+</div>

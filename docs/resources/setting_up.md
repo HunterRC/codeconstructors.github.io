@@ -1,25 +1,29 @@
 # Setting Up For A Project
 
-# Breakdown
+# Member Setup
 
-Our projects are done using google colabs 
+## Breakdown
+
+Explain Colab
 
 ??? "Why Not GitHub?"
-    We decided to use Colabs over GitHub to minimize project set up time, allow students joining the club late to jump into the projects, and to allow beginners to focus on code.
+    We decided to use Colab over GitHub to minimize project set up time, allow students joining the club late to jump into the projects, and to allow beginners to focus on code.
+
+Explain Trello
 
 
-## What you need
+## Logging into Google Colab
 
-## Optional
+## Creating a Trello Account
 
-If you are interested in using your own IDE or learning git you may do so 
 
-# Essential 
-## Colabs
+# Project Lead Setup
 
-# Extra 
-## VsCode
+## Creating a Google Colab Environment
 
-## Python
+## Creating Your Trello Board
 
-## GitHub
+
+
+
+

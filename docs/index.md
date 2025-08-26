@@ -1,4 +1,5 @@
 # Welcome to Code Constructors!
 
-### Hello!
-Test
+
+
+ [:myicons-discord: Join Our Discord](https://discord.gg/uU4MaxJVH5){ .md-button }
